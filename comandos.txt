@@ -1,0 +1,11 @@
+1 - Criar repositório do git;
+2 - Copiar o link https para efetuar a clonagem;
+3 - Já no prompt de comando digite: git clone https://github.com/jaofonso/WEB001_AF_REC.git;
+4 - Criar os arquivos nome.txt nas pasta local;
+5 - Criar o arquivo lembrete.txt na pasta local;
+6 - Criar o arquivo comandos.txt na pasta local;
+6 - Voltando no prompt de comando, entrar no repositório WEB001_AF_REC com o comando cd web_af_rec;
+8 - Digite o comando git add* para adicionar todos arquivos ao repositório;
+9 - Verificar se foram adicionados com o comando git status;
+10 - Enviar os arquivos para index com o comando git commit -m "Prova Recuperação";
+11 - Enviar para head com o comando git push origin master;
